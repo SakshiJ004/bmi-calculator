@@ -4,4 +4,5 @@ Users can input their age, height, and weight to calculate their BMI, view their
 
 ## Screenshot
 ![BMI Calculator UI](assets/bmi-calculator.png)
-![BMI Calculator UI](assets/bmi.png)
+
+![BMI Calculator UI](./assets/bmi.png)
